@@ -1,1 +1,1 @@
-### Hi, I'm Elizabeth<img src="https://i.pinimg.com/originals/dd/aa/81/ddaa813eef9fb1c57a8dfd6142a3d955.gif" width="60" height="40" />
+### Hi, I'm Elizabeth <img src="https://cdn.discordapp.com/emojis/1150054335913414677.webp?size=240&quality=lossless" width="25" height="25" />
