@@ -1,9 +1,25 @@
-# Hi, I am Elizabeth <img src="https://github.com/user-attachments/assets/18400893-2c19-4f7e-adbc-45e899789ec8" width="30"/>
+# Elizabeth Huang—@cyaos
 
 ---
 
-**About me** <img src="https://github.com/user-attachments/assets/2156345f-d190-407d-8310-2437df5917c3" width="15"/>
+```py
+class Elizabeth < Person
+  def initialize
+    @name = 'Elizabeth Huang'
+    @age = 22
+    @education = 'Universidad de Costa Rica'
+    @hobbies = ['Listening to music', 'Reading', 'Baking']
+  end
 
-I’m an undergraduate Computer Science student at Universidad de Costa Rica.  
+  def current_location
+    'Heredia, Costa Rica'
+  end
 
+  def currently
+    {
+      studying: [Computer Architecture, Differential Equations, Experiment Design, Robotics]
+    }
+  end
+end
+```
 
